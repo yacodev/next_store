@@ -1,77 +1,46 @@
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
+"use strict";
 (() => {
 var exports = {};
-exports.id = "pages/_app";
-exports.ids = ["pages/_app"];
+exports.id = 888;
+exports.ids = [888];
 exports.modules = {
 
-/***/ "./pages/_app.tsx":
-/*!************************!*\
-  !*** ./pages/_app.tsx ***!
-  \************************/
+/***/ 5656:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"react/jsx-runtime\");\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var semantic_ui_css_semantic_min_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! semantic-ui-css/semantic.min.css */ \"./node_modules/semantic-ui-css/semantic.min.css\");\n/* harmony import */ var semantic_ui_css_semantic_min_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(semantic_ui_css_semantic_min_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _global_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../global.css */ \"./global.css\");\n/* harmony import */ var _global_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_global_css__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _store_Cart__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @store/Cart */ \"./store/Cart.tsx\");\n\n\n\n\nfunction MyApp({ Component , pageProps  }) {\n    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(_store_Cart__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n        __source: {\n            fileName: \"/Users/carlo33/Development/Courses/next_store/pages/_app.tsx\",\n            lineNumber: 8,\n            columnNumber: 5\n        },\n        __self: this,\n        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(Component, {\n            ...pageProps,\n            __source: {\n                fileName: \"/Users/carlo33/Development/Courses/next_store/pages/_app.tsx\",\n                lineNumber: 9,\n                columnNumber: 7\n            },\n            __self: this\n        })\n    }));\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9fYXBwLnRzeC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7QUFDeUM7QUFDbkI7QUFDZ0I7U0FFN0JDLEtBQUssQ0FBQyxDQUFDLENBQUNDLFNBQVMsR0FBRUMsU0FBUyxFQUFVLENBQUMsRUFBRSxDQUFDO0lBQ2pELE1BQU0sc0VBQ0hILG1EQUFZOzs7Ozs7O3VGQUNWRSxTQUFTO2VBQUtDLFNBQVM7Ozs7Ozs7OztBQUc5QixDQUFDO0FBRUQsaUVBQWVGLEtBQUsiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9uZXh0X3N0b3JlLy4vcGFnZXMvX2FwcC50c3g/MmZiZSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge0FwcFByb3BzfSBmcm9tICduZXh0L2FwcCdcbmltcG9ydCAnc2VtYW50aWMtdWktY3NzL3NlbWFudGljLm1pbi5jc3MnXG5pbXBvcnQgJy4uL2dsb2JhbC5jc3MnXG5pbXBvcnQgQ2FydFByb3ZpZGVyIGZyb20gJ0BzdG9yZS9DYXJ0J1xuXG5mdW5jdGlvbiBNeUFwcCh7IENvbXBvbmVudCwgcGFnZVByb3BzIH06QXBwUHJvcHMpIHtcbiAgcmV0dXJuIChcbiAgICA8Q2FydFByb3ZpZGVyPlxuICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxuICAgIDwvQ2FydFByb3ZpZGVyPlxuICApXG59XG5cbmV4cG9ydCBkZWZhdWx0IE15QXBwIl0sIm5hbWVzIjpbIkNhcnRQcm92aWRlciIsIk15QXBwIiwiQ29tcG9uZW50IiwicGFnZVByb3BzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/_app.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _store_Cart__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(336);
 
-/***/ }),
 
-/***/ "./store/Cart.tsx":
-/*!************************!*\
-  !*** ./store/Cart.tsx ***!
-  \************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"useCart\": () => (/* binding */ useCart),\n/* harmony export */   \"useCartMutations\": () => (/* binding */ useCartMutations),\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"react/jsx-runtime\");\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n\n\nconst defaultState = {\n};\nconst CartItemsContext = /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_1___default().createContext(defaultState);\nconst CartDispatchContext = /*#__PURE__*/ react__WEBPACK_IMPORTED_MODULE_1___default().createContext(()=>{\n});\nconst CartProvider = ({ children  })=>{\n    const { 0: state , 1: dispatch  } = (0,react__WEBPACK_IMPORTED_MODULE_1__.useReducer)(cartReducers, defaultState);\n    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(CartItemsContext.Provider, {\n        value: state,\n        __source: {\n            fileName: \"/Users/carlo33/Development/Courses/next_store/store/Cart.tsx\",\n            lineNumber: 26,\n            columnNumber: 5\n        },\n        __self: undefined,\n        children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(CartDispatchContext.Provider, {\n            value: dispatch,\n            __source: {\n                fileName: \"/Users/carlo33/Development/Courses/next_store/store/Cart.tsx\",\n                lineNumber: 27,\n                columnNumber: 7\n            },\n            __self: undefined,\n            children: children\n        })\n    }));\n};\nfunction cartReducers(state, { item , type , quantity: qtyToAdd = 1  }) {\n    const existingCartItem = state[item.id];\n    switch(type){\n        case 'add':\n            {\n                if (existingCartItem != undefined) {\n                    const quantity = existingCartItem.quantity + qtyToAdd;\n                    return {\n                        ...state,\n                        [item.id]: {\n                            ...existingCartItem,\n                            quantity\n                        }\n                    };\n                }\n                return {\n                    ...state,\n                    [item.id]: {\n                        ...item,\n                        quantity: qtyToAdd\n                    }\n                };\n            }\n        case 'remove':\n            {\n                if (existingCartItem == undefined) {\n                    return state;\n                }\n                const quantity = existingCartItem.quantity - 1;\n                if (quantity > 0) {\n                    return {\n                        ...state,\n                        [item.id]: {\n                            ...existingCartItem,\n                            quantity\n                        }\n                    };\n                }\n                const newCartItems = {\n                    ...state\n                };\n                delete newCartItems[item.id];\n                return newCartItems;\n            }\n        default:\n            {\n                throw new Error(`Unhandled action type: ${type}`);\n            }\n    }\n}\nconst getCartSubTotal = (sum, item)=>{\n    sum += item.price * item.quantity;\n    return sum;\n};\nconst getCartCount = (sum, item)=>sum + item.quantity\n;\n/**\n * Hey there insatiably brain,\n * Are you interested in this pattern where the Context values are\n * exposed without actually provinding access to the Context itself :)\n * https://kentcdodds.com/blog/how-to-use-react-context-effectively\n */ const useCart = ()=>{\n    const itemsById = (0,react__WEBPACK_IMPORTED_MODULE_1__.useContext)(CartItemsContext);\n    const items = Object.values(itemsById);\n    // Not familiar with Array.reduce? :)\n    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce\n    const count = items.reduce(getCartCount, 0);\n    const subTotal = items.reduce(getCartSubTotal, 0);\n    return {\n        items,\n        itemsById,\n        count,\n        subTotal\n    };\n};\nconst useCartMutations = ()=>{\n    const dispatch = (0,react__WEBPACK_IMPORTED_MODULE_1__.useContext)(CartDispatchContext);\n    const addToCart = (product, quantity)=>dispatch({\n            type: 'add',\n            item: product,\n            quantity\n        })\n    ;\n    const removeFromCart = (product)=>dispatch({\n            type: 'remove',\n            item: product\n        })\n    ;\n    return {\n        addToCart,\n        removeFromCart\n    };\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (CartProvider);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,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L0NhcnQudHN4PzY2NDkiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0LCB7IERpc3BhdGNoLCB1c2VDb250ZXh0LCB1c2VSZWR1Y2VyIH0gZnJvbSAncmVhY3QnXG5cbmV4cG9ydCB0eXBlIENhcnRJdGVtVHlwZSA9IFRQcm9kdWN0ICYgeyBxdWFudGl0eTogbnVtYmVyIH1cblxuZXhwb3J0IHR5cGUgQ2FydFN0YXRlID0ge1xuICBba2V5OiBzdHJpbmddOiBDYXJ0SXRlbVR5cGVcbn1cblxuZXhwb3J0IHR5cGUgQ2FydEFjdGlvbiA9IHtcbiAgdHlwZTogJ2FkZCcgfCAncmVtb3ZlJ1xuICBpdGVtOiBUUHJvZHVjdFxuICBxdWFudGl0eT86IG51bWJlclxufVxuXG5jb25zdCBkZWZhdWx0U3RhdGUgPSB7fSBhcyBDYXJ0U3RhdGVcblxuY29uc3QgQ2FydEl0ZW1zQ29udGV4dCA9IFJlYWN0LmNyZWF0ZUNvbnRleHQoZGVmYXVsdFN0YXRlKVxuY29uc3QgQ2FydERpc3BhdGNoQ29udGV4dCA9IFJlYWN0LmNyZWF0ZUNvbnRleHQoKCgpID0+IHt9KSBhcyBEaXNwYXRjaDxcbiAgQ2FydEFjdGlvblxuPilcblxuY29uc3QgQ2FydFByb3ZpZGVyID0gKHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlIH0pID0+IHtcbiAgY29uc3QgW3N0YXRlLCBkaXNwYXRjaF0gPSB1c2VSZWR1Y2VyKGNhcnRSZWR1Y2VycywgZGVmYXVsdFN0YXRlKVxuXG4gIHJldHVybiAoXG4gICAgPENhcnRJdGVtc0NvbnRleHQuUHJvdmlkZXIgdmFsdWU9e3N0YXRlfT5cbiAgICAgIDxDYXJ0RGlzcGF0Y2hDb250ZXh0LlByb3ZpZGVyIHZhbHVlPXtkaXNwYXRjaH0+XG4gICAgICAgIHtjaGlsZHJlbn1cbiAgICAgIDwvQ2FydERpc3BhdGNoQ29udGV4dC5Qcm92aWRlcj5cbiAgICA8L0NhcnRJdGVtc0NvbnRleHQuUHJvdmlkZXI+XG4gIClcbn1cblxuZnVuY3Rpb24gY2FydFJlZHVjZXJzKFxuICBzdGF0ZTogQ2FydFN0YXRlLFxuICB7IGl0ZW0sIHR5cGUsIHF1YW50aXR5OiBxdHlUb0FkZCA9IDEgfTogQ2FydEFjdGlvblxuKSB7XG4gIGNvbnN0IGV4aXN0aW5nQ2FydEl0ZW0gPSBzdGF0ZVtpdGVtLmlkXVxuXG4gIHN3aXRjaCAodHlwZSkge1xuICAgIGNhc2UgJ2FkZCc6IHtcbiAgICAgIGlmIChleGlzdGluZ0NhcnRJdGVtICE9IHVuZGVmaW5lZCkge1xuICAgICAgICBjb25zdCBxdWFudGl0eSA9IGV4aXN0aW5nQ2FydEl0ZW0ucXVhbnRpdHkgKyBxdHlUb0FkZFxuICAgICAgICByZXR1cm4ge1xuICAgICAgICAgIC4uLnN0YXRlLFxuICAgICAgICAgIFtpdGVtLmlkXToge1xuICAgICAgICAgICAgLi4uZXhpc3RpbmdDYXJ0SXRlbSxcbiAgICAgICAgICAgIHF1YW50aXR5LFxuICAgICAgICAgIH0sXG4gICAgICAgIH1cbiAgICAgIH1cblxuICAgICAgcmV0dXJuIHtcbiAgICAgICAgLi4uc3RhdGUsXG4gICAgICAgIFtpdGVtLmlkXToge1xuICAgICAgICAgIC4uLml0ZW0sXG4gICAgICAgICAgcXVhbnRpdHk6IHF0eVRvQWRkLFxuICAgICAgICB9LFxuICAgICAgfVxuICAgIH1cblxuICAgIGNhc2UgJ3JlbW92ZSc6IHtcbiAgICAgIGlmIChleGlzdGluZ0NhcnRJdGVtID09IHVuZGVmaW5lZCkge1xuICAgICAgICByZXR1cm4gc3RhdGVcbiAgICAgIH1cblxuICAgICAgY29uc3QgcXVhbnRpdHkgPSBleGlzdGluZ0NhcnRJdGVtLnF1YW50aXR5IC0gMVxuICAgICAgaWYgKHF1YW50aXR5ID4gMCkge1xuICAgICAgICByZXR1cm4ge1xuICAgICAgICAgIC4uLnN0YXRlLFxuICAgICAgICAgIFtpdGVtLmlkXToge1xuICAgICAgICAgICAgLi4uZXhpc3RpbmdDYXJ0SXRlbSxcbiAgICAgICAgICAgIHF1YW50aXR5LFxuICAgICAgICAgIH0sXG4gICAgICAgIH1cbiAgICAgIH1cblxuICAgICAgY29uc3QgbmV3Q2FydEl0ZW1zID0geyAuLi5zdGF0ZSB9XG4gICAgICBkZWxldGUgbmV3Q2FydEl0ZW1zW2l0ZW0uaWRdXG4gICAgICByZXR1cm4gbmV3Q2FydEl0ZW1zXG4gICAgfVxuXG4gICAgZGVmYXVsdDoge1xuICAgICAgdGhyb3cgbmV3IEVycm9yKGBVbmhhbmRsZWQgYWN0aW9uIHR5cGU6ICR7dHlwZX1gKVxuICAgIH1cbiAgfVxufVxuXG5jb25zdCBnZXRDYXJ0U3ViVG90YWwgPSAoc3VtOiBudW1iZXIsIGl0ZW06IENhcnRJdGVtVHlwZSkgPT4ge1xuICBzdW0gKz0gaXRlbS5wcmljZSAqIGl0ZW0ucXVhbnRpdHlcbiAgcmV0dXJuIHN1bVxufVxuY29uc3QgZ2V0Q2FydENvdW50ID0gKHN1bTogbnVtYmVyLCBpdGVtOiBDYXJ0SXRlbVR5cGUpID0+IHN1bSArIGl0ZW0ucXVhbnRpdHlcbi8qKlxuICogSGV5IHRoZXJlIGluc2F0aWFibHkgYnJhaW4sXG4gKiBBcmUgeW91IGludGVyZXN0ZWQgaW4gdGhpcyBwYXR0ZXJuIHdoZXJlIHRoZSBDb250ZXh0IHZhbHVlcyBhcmVcbiAqIGV4cG9zZWQgd2l0aG91dCBhY3R1YWxseSBwcm92aW5kaW5nIGFjY2VzcyB0byB0aGUgQ29udGV4dCBpdHNlbGYgOilcbiAqIGh0dHBzOi8va2VudGNkb2Rkcy5jb20vYmxvZy9ob3ctdG8tdXNlLXJlYWN0LWNvbnRleHQtZWZmZWN0aXZlbHlcbiAqL1xuZXhwb3J0IGNvbnN0IHVzZUNhcnQgPSAoKSA9PiB7XG4gIGNvbnN0IGl0ZW1zQnlJZCA9IHVzZUNvbnRleHQoQ2FydEl0ZW1zQ29udGV4dClcbiAgY29uc3QgaXRlbXMgPSBPYmplY3QudmFsdWVzKGl0ZW1zQnlJZClcbiAgLy8gTm90IGZhbWlsaWFyIHdpdGggQXJyYXkucmVkdWNlPyA6KVxuICAvLyBodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm9yZy9lbi1VUy9kb2NzL1dlYi9KYXZhU2NyaXB0L1JlZmVyZW5jZS9HbG9iYWxfT2JqZWN0cy9BcnJheS9SZWR1Y2VcbiAgY29uc3QgY291bnQgPSBpdGVtcy5yZWR1Y2UoZ2V0Q2FydENvdW50LCAwKVxuICBjb25zdCBzdWJUb3RhbCA9IGl0ZW1zLnJlZHVjZShnZXRDYXJ0U3ViVG90YWwsIDApXG5cbiAgcmV0dXJuIHtcbiAgICBpdGVtcyxcbiAgICBpdGVtc0J5SWQsXG4gICAgY291bnQsXG4gICAgc3ViVG90YWwsXG4gIH1cbn1cbmV4cG9ydCBjb25zdCB1c2VDYXJ0TXV0YXRpb25zID0gKCkgPT4ge1xuICBjb25zdCBkaXNwYXRjaCA9IHVzZUNvbnRleHQoQ2FydERpc3BhdGNoQ29udGV4dClcblxuICBjb25zdCBhZGRUb0NhcnQgPSAocHJvZHVjdDogVFByb2R1Y3QsIHF1YW50aXR5PzogbnVtYmVyKSA9PlxuICAgIGRpc3BhdGNoKHtcbiAgICAgIHR5cGU6ICdhZGQnLFxuICAgICAgaXRlbTogcHJvZHVjdCxcbiAgICAgIHF1YW50aXR5LFxuICAgIH0pXG5cbiAgY29uc3QgcmVtb3ZlRnJvbUNhcnQgPSAocHJvZHVjdDogVFByb2R1Y3QpID0+XG4gICAgZGlzcGF0Y2goe1xuICAgICAgdHlwZTogJ3JlbW92ZScsXG4gICAgICBpdGVtOiBwcm9kdWN0LFxuICAgIH0pXG5cbiAgcmV0dXJuIHtcbiAgICBhZGRUb0NhcnQsXG4gICAgcmVtb3ZlRnJvbUNhcnQsXG4gIH1cbn1cblxuZXhwb3J0IGRlZmF1bHQgQ2FydFByb3ZpZGVyIl0sIm5hbWVzIjpbIlJlYWN0IiwidXNlQ29udGV4dCIsInVzZVJlZHVjZXIiLCJkZWZhdWx0U3RhdGUiLCJDYXJ0SXRlbXNDb250ZXh0IiwiY3JlYXRlQ29udGV4dCIsIkNhcnREaXNwYXRjaENvbnRleHQiLCJDYXJ0UHJvdmlkZXIiLCJjaGlsZHJlbiIsInN0YXRlIiwiZGlzcGF0Y2giLCJjYXJ0UmVkdWNlcnMiLCJQcm92aWRlciIsInZhbHVlIiwiaXRlbSIsInR5cGUiLCJxdWFudGl0eSIsInF0eVRvQWRkIiwiZXhpc3RpbmdDYXJ0SXRlbSIsImlkIiwidW5kZWZpbmVkIiwibmV3Q2FydEl0ZW1zIiwiRXJyb3IiLCJnZXRDYXJ0U3ViVG90YWwiLCJzdW0iLCJwcmljZSIsImdldENhcnRDb3VudCIsInVzZUNhcnQiLCJpdGVtc0J5SWQiLCJpdGVtcyIsIk9iamVjdCIsInZhbHVlcyIsImNvdW50IiwicmVkdWNlIiwic3ViVG90YWwiLCJ1c2VDYXJ0TXV0YXRpb25zIiwiYWRkVG9DYXJ0IiwicHJvZHVjdCIsInJlbW92ZUZyb21DYXJ0Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./store/Cart.tsx\n");
 
-/***/ }),
-
-/***/ "./global.css":
-/*!********************!*\
-  !*** ./global.css ***!
-  \********************/
-/***/ (() => {
-
+function MyApp({ Component , pageProps  }) {
+    return(/*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_store_Cart__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .ZP, {
+        children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(Component, {
+            ...pageProps
+        })
+    }));
+}
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);
 
 
 /***/ }),
 
-/***/ "./node_modules/semantic-ui-css/semantic.min.css":
-/*!*******************************************************!*\
-  !*** ./node_modules/semantic-ui-css/semantic.min.css ***!
-  \*******************************************************/
-/***/ (() => {
-
-
-
-/***/ }),
-
-/***/ "react":
-/*!************************!*\
-  !*** external "react" ***!
-  \************************/
+/***/ 6689:
 /***/ ((module) => {
 
-"use strict";
 module.exports = require("react");
 
 /***/ }),
 
-/***/ "react/jsx-runtime":
-/*!************************************!*\
-  !*** external "react/jsx-runtime" ***!
-  \************************************/
+/***/ 997:
 /***/ ((module) => {
 
-"use strict";
 module.exports = require("react/jsx-runtime");
 
 /***/ })
@@ -83,7 +52,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/_app.tsx"));
+var __webpack_exports__ = __webpack_require__.X(0, [336], () => (__webpack_exec__(5656)));
 module.exports = __webpack_exports__;
 
 })();
